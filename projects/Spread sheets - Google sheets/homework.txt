@@ -1,0 +1,4 @@
+1. highlight all row that has SSN no. first degit is 1 or 2
+2. content page 10 - Project Dynamic Query
+3. content page 14
+4. content page 16
