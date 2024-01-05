@@ -1,7 +1,7 @@
 # data_science_bootcamp_8
-My data portfolio for data analyst role
+My data portfolio for data analyst role.
 
-## what did I learn from this bootcamp
+## What did I learn from this bootcamp?
 
 I learned a lot of stuff related to data science skills. This bootcamp have 10 sprints as follow.
 
@@ -16,5 +16,7 @@ I learned a lot of stuff related to data science skills. This bootcamp have 10 s
 - Python programming
 - Essential Python for Data Analyst
 - Dashboard
+
+Please see my contribution in "projects"
 
 You can find me on  LinkedIn https://www.linkedin.com/in/saranpol-chakadkarn-604259263/
