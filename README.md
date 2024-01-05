@@ -17,6 +17,6 @@ I learned a lot of stuff related to data science skills. This bootcamp have 10 s
 - Essential Python for Data Analyst
 - Dashboard
 
-Please see my contribution in "projects"
+Please see my contribution in "projects" or https://github.com/sangkangnamami/data_science_bootcamp_8/tree/main/projects
 
 You can find me on  LinkedIn https://www.linkedin.com/in/saranpol-chakadkarn-604259263/
